@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">title</Data></Cell>
+			<Cell><Data ss:Type="String">release_year</Data></Cell>
+			<Cell><Data ss:Type="String">genres</Data></Cell>
+			<Cell><Data ss:Type="String">description</Data></Cell>
+			<Cell><Data ss:Type="String">theatres</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Turtle Odyssey</Data></Cell>
+			<Cell><Data ss:Type="Number">2018</Data></Cell>
+			<Cell><Data ss:Type="String">Documentary</Data></Cell>
+			<Cell><Data ss:Type="String">The unique life cycle of an Australian green sea turtle and its journey across the open ocean.</Data></Cell>
+			<Cell><Data ss:Type="String">Bullock Museum Spirit Theater</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Into America's Wild</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Documentary</Data></Cell>
+			<Cell><Data ss:Type="String">From the wilds of Alaska to the lush coastline of Oregon, filmmaker Greg MacGillivray explores some of the most beautiful landscapes in North America.</Data></Cell>
+			<Cell><Data ss:Type="String">Bullock Museum Spirit Theater</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wonder Woman 1984</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Action,Adventure,Fantasy</Data></Cell>
+			<Cell><Data ss:Type="String">Diana Prince lives quietly among mortals in the vibrant, sleek 1980s -- an era of excess driven by the pursuit of having it all. Though she's come into her full powers, she maintains a low profile by curating ancient artifacts, and only performing heroic acts incognito. But soon, Diana will have to muster all of her strength, wisdom and courage as she finds herself squaring off against Maxwell Lord and the Cheetah, a villainess who possesses superhuman strength and agility.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The Croods: A New Age</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Comedy,Adventure,Animated,Children</Data></Cell>
+			<Cell><Data ss:Type="String">Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The Wizard of Oz</Data></Cell>
+			<Cell><Data ss:Type="Number">1939</Data></Cell>
+			<Cell><Data ss:Type="String">Fantasy,Musical,Children</Data></Cell>
+			<Cell><Data ss:Type="String">When a tornado rips through Kansas, Dorothy (Judy Garland) and her dog, Toto, are whisked away in their house to the magical land of Oz. They follow the Yellow Brick Road toward the Emerald City to meet the Wizard, and en route they meet a Scarecrow (Ray Bolger) that needs a brain, a Tin Man (Jack Haley) missing a heart, and a Cowardly Lion (Bert Lahr) who wants courage. The wizard asks the group to bring him the broom of the Wicked Witch of the West (Margaret Hamilton) to earn his help.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">One Night in Miami</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Drama</Data></Cell>
+			<Cell><Data ss:Type="String">On the night of Feb. 25, 1964, in Miami, Cassius Clay joins Jim Brown, Sam Cooke and Malcom X, and they discuss the responsibility of being successful black men during the civil rights movement.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jurassic Park</Data></Cell>
+			<Cell><Data ss:Type="Number">1993</Data></Cell>
+			<Cell><Data ss:Type="String">Adventure,Action,Science fiction,Thriller</Data></Cell>
+			<Cell><Data ss:Type="String">In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select group chosen to tour an island theme park populated by dinosaurs created from prehistoric DNA. While the park's mastermind, billionaire John Hammond (Richard Attenborough), assures everyone that the facility is safe, they find out otherwise when various ferocious predators break free and go on the hunt.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Back to the Future</Data></Cell>
+			<Cell><Data ss:Type="Number">1985</Data></Cell>
+			<Cell><Data ss:Type="String">Comedy,Science fiction,Fantasy,Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">In this 1980s sci-fi classic, small-town California teen Marty McFly (Michael J. Fox) is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown (Christopher Lloyd) goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents (Crispin Glover, Lea Thompson), and must make sure that they fall in love or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">News of the World</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Western,Adventure,Drama</Data></Cell>
+			<Cell><Data ss:Type="String">Five years after the end of the Civil War, Capt. Jefferson Kyle Kidd crosses paths with a 10-year-old girl taken by the Kiowa people. Forced to return to her aunt and uncle, Kidd agrees to escort the child across the harsh and unforgiving plains of Texas. But the long journey soon turns into a fight for survival as the traveling companions encounter danger at every turn -- both human and natural.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Promising Young Woman</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Dark comedy,Thriller</Data></Cell>
+			<Cell><Data ss:Type="String">Nothing in Cassie's life is what it appears to be -- she's wickedly smart, tantalizingly cunning, and she's living a secret double life by night. Now, an unexpected encounter is about to give Cassie a chance to right the wrongs from the past.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The LEGO Batman Movie</Data></Cell>
+			<Cell><Data ss:Type="Number">2017</Data></Cell>
+			<Cell><Data ss:Type="String">Comedy,Adventure,Action,Animated,Children</Data></Cell>
+			<Cell><Data ss:Type="String">There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's (Zach Galifianakis) hostile takeover, he may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up. Maybe his superhero sidekick Robin (Michael Cera) and loyal butler Alfred (Ralph Fiennes) can show him a thing or two.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jaws</Data></Cell>
+			<Cell><Data ss:Type="Number">1975</Data></Cell>
+			<Cell><Data ss:Type="String">Thriller,Horror,Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">When a young woman is killed by a shark while skinny-dipping near the New England tourist town of Amity Island, police chief Martin Brody (Roy Scheider) wants to close the beaches, but mayor Larry Vaughn (Murray Hamilton) overrules him, fearing that the loss of tourist revenue will cripple the town. Ichthyologist Matt Hooper (Richard Dreyfuss) and grizzled ship captain Quint (Robert Shaw) offer to help Brody capture the killer beast, and the trio engage in an epic battle of man vs. nature.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Casablanca</Data></Cell>
+			<Cell><Data ss:Type="Number">1942</Data></Cell>
+			<Cell><Data ss:Type="String">Drama</Data></Cell>
+			<Cell><Data ss:Type="String">Rick Blaine (Humphrey Bogart), who owns a nightclub in Casablanca, discovers his old flame Ilsa (Ingrid Bergman) is in town with her husband, Victor Laszlo (Paul Henreid). Laszlo is a famed rebel, and with Germans on his tail, Ilsa knows Rick can help them get out of the country.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The Goonies</Data></Cell>
+			<Cell><Data ss:Type="Number">1985</Data></Cell>
+			<Cell><Data ss:Type="String">Adventure,Comedy,Children</Data></Cell>
+			<Cell><Data ss:Type="String">When two brothers find out they might lose their house they are desperate to find a way to keep their home. They find a treasure map and bring some friends along to find it. They are all out looking for the "X" and trying to get away from a group of bad guys who also want the treasure.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tenet</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Action,Science fiction,Thriller</Data></Cell>
+			<Cell><Data ss:Type="String">A secret agent embarks on a dangerous, time-bending mission to prevent the start of World War III.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mad Max: Fury Road</Data></Cell>
+			<Cell><Data ss:Type="Number">2015</Data></Cell>
+			<Cell><Data ss:Type="String">Action,Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">Years after the collapse of civilization, the tyrannical Immortan Joe enslaves apocalypse survivors inside the desert fortress the Citadel. When the warrior Imperator Furiosa (Charlize Theron) leads the despot's five wives in a daring escape, she forges an alliance with Max Rockatansky (Tom Hardy), a loner and former captive. Fortified in the massive, armored truck the War Rig, they try to outrun the ruthless warlord and his henchmen in a deadly high-speed chase through the Wasteland.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The Shining</Data></Cell>
+			<Cell><Data ss:Type="Number">1980</Data></Cell>
+			<Cell><Data ss:Type="String">Horror,Thriller</Data></Cell>
+			<Cell><Data ss:Type="String">Jack Torrance (Jack Nicholson) becomes winter caretaker at the isolated Overlook Hotel in Colorado, hoping to cure his writer's block. He settles in along with his wife, Wendy (Shelley Duvall), and his son, Danny (Danny Lloyd), who is plagued by psychic premonitions. As Jack's writing goes nowhere and Danny's visions become more disturbing, Jack discovers the hotel's dark secrets and begins to unravel into a homicidal maniac hell-bent on terrorizing his family.</Data></Cell>
+			<Cell><Data ss:Type="String">Alamo Drafthouse South Lamar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Wonder Woman 1984: The IMAX 2D Experience</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Action,Adventure,Fantasy</Data></Cell>
+			<Cell><Data ss:Type="String">Diana Prince lives quietly among mortals in the vibrant, sleek 1980s -- an era of excess driven by the pursuit of having it all. Though she's come into her full powers, she maintains a low profile by curating ancient artifacts, and only performing heroic acts incognito. But soon, Diana will have to muster all of her strength, wisdom and courage as she finds herself squaring off against Maxwell Lord and the Cheetah, a villainess who possesses superhuman strength and agility.</Data></Cell>
+			<Cell><Data ss:Type="String">AMC Barton Creek Square 14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">The War With Grandpa</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="String">Comedy</Data></Cell>
+			<Cell><Data ss:Type="String">Peter and his grandpa used to be very close, but when Grandpa Jack moves in with the family, Peter is forced to give up his most prized possession: his bedroom. Peter will stop at nothing to get his room back, scheming with friends to devise a series of pranks to drive him out. However, grandpa doesn't give up easily, and it turns into an all-out war between the two.</Data></Cell>
+			<Cell><Data ss:Type="String">AMC Barton Creek Square 14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pinocchio</Data></Cell>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="String">Fantasy</Data></Cell>
+			<Cell><Data ss:Type="String">Il povero Geppetto, per smorzare la propria solitudine, costruisce un burattino di legno che gli faccia da figlio. Per magia, la creaturina prende vita, desiderosa solo di diventare un bambino vero. Crescere, però, si dimostra un'ardua impresa.</Data></Cell>
+			<Cell><Data ss:Type="String">AMC Barton Creek Square 14</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,15 @@
+CREATE TABLE theatres_tables (
+    title text null,
+    release_year int null,
+    genres text null,
+    description longtext null,
+    theatres text null
+);
+
+CREATE TABLE tv_tables (
+    title text null,
+    release_year int null,
+    genres text null,
+    description longtext null,
+    channels text null
+);
