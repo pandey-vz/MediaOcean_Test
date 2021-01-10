@@ -55,7 +55,7 @@ def get_data_api_theatres(url1,engine):
         df_theatres=pd.DataFrame(list(zip(title,release_year,genres,description,theatres)),
                                  columns=['title','release_year','genres','description','theatres'])
         df_theatres['genres'] = [','.join(map(str, l)) for l in df_theatres['genres']]
-        # df_theatres.to_sql("theatres_tables",schema="moviebuzz",con=engine,if_exists="append",chunksize=None,index=False)
+        df_theatres.to_sql("theatres_tables",schema="moviebuzz",con=engine,if_exists="append",chunksize=None,index=False)
         logging.info("Data updated to the Theatres Table")
     except requests.exceptions.Timeout as e:
         logging.exception(f"Exception of type {type(e).__name__} is raised")
@@ -94,7 +94,7 @@ def get_data_api_tv(url2,engine):
 
         df_tv['channels'] = [','.join(map(str, l)) for l in df_tv['channels']]
         df_tv['genres'] = [','.join(map(str, l)) for l in df_tv['genres']]
-        # df_tv.to_sql('tv_tables',schema='moviebuzz', con=engine, if_exists="append", chunksize=None,index=False)
+        df_tv.to_sql('tv_tables',schema='moviebuzz', con=engine, if_exists="append", chunksize=None,index=False)
         logging.info("Data updated to the TV table")
     except requests.exceptions.Timeout as e:
         logging.exception(f"Exception of type {type(e).__name__} is raised")
